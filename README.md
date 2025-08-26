@@ -1,4 +1,4 @@
-Hi ! I'm <img src="https://skillicons.dev/icons?i=vim" />itor Vale
+Hi ! I'm Vitor Vale
 ===================================================================================================================================
 
 Software Engineer 
