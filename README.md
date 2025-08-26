@@ -8,6 +8,6 @@ Software Engineer and Security Researcher
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,mysql,redis,docker,aws,vim,debian" />
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,mysql,redis,docker,aws" />
   </a>
 </p>
