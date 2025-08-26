@@ -1,7 +1,7 @@
 Hi ! I'm Vitor Vale
 ===================================================================================================================================
 
-Software Engineer and Security Researcher
+Software Engineer 
 -----------------------------------------
 
 * 🌍  I'm based in Juiz de Fora, Brazil
