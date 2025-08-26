@@ -1,4 +1,4 @@
-Hi ! I'm Vitor <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />ale
+Hi ! I'm Vitor <img src="https://skillicons.dev/icons?i=vim" />ale
 ===================================================================================================================================
 
 Software Engineer 
