@@ -1,4 +1,4 @@
-Hi ! I'm Vitor Vale
+Hi ! I'm Vitor <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />ale
 ===================================================================================================================================
 
 Software Engineer 
@@ -8,6 +8,6 @@ Software Engineer
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,mysql,redis,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,mysql,redis,docker,aws" />
   </a>
 </p>
