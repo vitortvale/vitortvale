@@ -10,5 +10,6 @@ Software Engineer
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,mysql,redis,docker,aws" />
   </a>
-* I am also really fond of
+</p>
+<a>I am also really fond of</a>
    <img src="https://skillicons.dev/icons?i=debian,linux,vim" />
