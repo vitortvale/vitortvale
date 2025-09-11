@@ -12,4 +12,4 @@ Hi ! I'm Vitor Vale
   </a>
 </p>
 <a>I am also really fond of</a>
-   <img src="https://skillicons.dev/icons?i=arch,neovim,ocaml" />
+   <img src="https://skillicons.dev/icons?i=arch,vim,ocaml" />
