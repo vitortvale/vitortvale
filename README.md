@@ -8,7 +8,7 @@ Hi ! I'm Vitor Vale
 <a>My technology stack consists of</a>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,mysql,cassandra,redis,rabbitmq,docker,kubernetes,aws" />
+    <img src="https://skillicons.dev/icons?i=ts,rust,nodejs,mysql,cassandra,redis,rabbitmq,docker,kubernetes,aws" />
   </a>
 </p>
 
