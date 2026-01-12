@@ -12,3 +12,11 @@ Hi ! I'm Vitor Vale
   </a>
 </p>
 
+
+<a>I also like writing code with</a>
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ocaml" />
+  </a>
+</p>
+
