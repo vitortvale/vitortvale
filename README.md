@@ -25,7 +25,6 @@ Hi ! I'm Vitor Vale
 
   <!-- Messaging -->
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img alt="BullMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=bullmq&logoColor=white" />
 
   <!-- DevOps / Infra -->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat-square&logo=docker&logoColor=white" />
