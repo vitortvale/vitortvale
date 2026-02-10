@@ -10,7 +10,7 @@ Hi ! I'm Vitor Vale
 <p>
   <!-- Languages -->
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-cpp-CE412B?style=flat-square&logo=cpp&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EE6A1A?style=flat-square&logo=ocaml&logoColor=white" />
 
   <!-- Runtimes / Backend -->
