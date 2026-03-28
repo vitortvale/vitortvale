@@ -3,7 +3,7 @@ Hi ! I'm Vitor Vale
 
 -----------------------------------------
 
-* 🌍  I'm based in Juiz de Fora, Brazil
+* 🌍  I'm based (in Juiz de Fora, Brazil)
 
 ### My toolbox
 
